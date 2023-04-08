@@ -8,6 +8,8 @@ This week's task is to create an application that randomly generates a password 
 
 https://github.com/cm-thom/js-random-password-generator
 
+https://cm-thom.github.io/js-random-password-generator/
+
 
 
 ## User Story
